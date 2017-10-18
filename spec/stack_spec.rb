@@ -1,5 +1,5 @@
 require 'stack'
 
-describe Stack do 
+describe Stack do
 
 end

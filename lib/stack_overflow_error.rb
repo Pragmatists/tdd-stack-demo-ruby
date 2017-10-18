@@ -1,2 +1,0 @@
-class StackOverflowError < RuntimeError
-end
